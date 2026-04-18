@@ -92,8 +92,9 @@ For example:
         └── tom_hanks
             ├── tom_hanks1.png
             └── tom_hanks2.png
-        
-        
-### Author
+
+---
+
+## Author
 Miguel Azenha
 ISEL - Instituto Superior de Engenharia de Lisboa
