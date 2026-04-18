@@ -80,7 +80,9 @@ pip install opencv-python mediapipe numpy matplotlib notebook
 
 ### 3. Run the project
 
-### How to train the model
+---
+
+## How to train the model
 To train the model you need to add a directory named after the person with their pictures in the directory dataset/train.
 For example: 
 
