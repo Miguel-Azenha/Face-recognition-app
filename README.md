@@ -55,12 +55,15 @@ The system follows this pipeline:
     dataset/
     ├── train/
     └── test/
+    
     images/
     ├── hat.png
     ├── sunglasses.png
     └── mustache.png
+    
     landmarkers/
     └── face_landmarker.task
+    
     TP1.ipynb
 
 ---
