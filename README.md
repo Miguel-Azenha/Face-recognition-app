@@ -14,6 +14,7 @@ This project consists of a computer vision application capable of:
 - Applying **Augmented Reality (AR)** elements on detected faces
 
 The entire system is implemented in a **Jupyter Notebook**, combining face detection, recognition, and AR overlay in a single interactive pipeline.
+
 ---
 
 ## 🧠 Features
