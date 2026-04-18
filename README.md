@@ -95,6 +95,12 @@ For example:
 
 ---
 
+## App report
+
+A detailed report in Portuguese is also included, describing the application, the design decisions made, and its overall functionality.
+
+---
+
 ## Author
 Miguel Azenha
 ISEL - Instituto Superior de Engenharia de Lisboa
