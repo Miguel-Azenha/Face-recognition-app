@@ -51,27 +51,17 @@ The system follows this pipeline:
 ---
 
 ## 📂 Project Structure
-dataset/
 
-├── train/
-
-└── test/
-
-images/
-
-├── hat.png
-
-├── sunglasses.png
-
-└── mustache.png
-
-
-landmarkers/
-
-├── face_landmarker.task
-
-
-TP1.ipynb
+    dataset/
+    ├── train/
+    └── test/
+    images/
+    ├── hat.png
+    ├── sunglasses.png
+    └── mustache.png
+    landmarkers/
+    └── face_landmarker.task
+    TP1.ipynb
 
 ---
 
@@ -90,17 +80,12 @@ pip install opencv-python mediapipe numpy matplotlib notebook
 To train the model you need to add a directory named after the person with their pictures in the directory dataset/train.
 For example: 
 
-dataset/
-
-├── test/
-
-└── train/
-
-    └── tom_hanks
-    
-        ├── tom_hanks1.png
-        
-        └── tom_hanks2.png
+    dataset/
+    ├── test/
+    └── train
+        └── tom_hanks
+            ├── tom_hanks1.png
+            └── tom_hanks2.png
         
         
 ### Author
